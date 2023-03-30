@@ -6,5 +6,11 @@ public class Main {
         solar.sun="1";
 
 
+        sun fero= new sun();
+        fero.color= "red";
+        fero.temperature="325489744";
+        fero.heat="345984215489k";
+
+
     }
 }
